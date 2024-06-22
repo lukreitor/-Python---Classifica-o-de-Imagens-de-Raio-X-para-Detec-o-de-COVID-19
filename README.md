@@ -15,6 +15,7 @@ Utilizei a Transformada Discreta de Wavelet (DWT) para extrair características 
 
 ## Repositório do Projeto
 [Link para o repositório do projeto](https://github.com/lukreitor/-Python---Classifica-o-de-Imagens-de-Raio-X-para-Detec-o-de-COVID-19)
+
 [Link para o video de explicação do projeto](https://drive.google.com/drive/folders/13DIY4shYioP3KrKe76hPpLZxPyqqyEap?usp=sharing )
 
 ## Classificador e Acurácia
