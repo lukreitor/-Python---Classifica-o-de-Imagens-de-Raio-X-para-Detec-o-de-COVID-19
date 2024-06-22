@@ -61,5 +61,5 @@ Usei um classificador SVM com kernel linear. A acurácia obtida foi de  0.678571
 [<img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" />](https://dev.to/username)  
 
 <p align="center">  
-<hr>Developed with ❤️ in Brazil 🇮🇳 
+<hr>Developed with ❤️ in Brazil 🇮🇳 UTFPR
 </p>
