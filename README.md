@@ -14,7 +14,7 @@ Dataset: O conjunto de dados “Covid-19 & Normal” disponível no Kaggle
 Utilizei a Transformada Discreta de Wavelet (DWT) para extrair características das imagens de raio-X. A DWT permite decompor a imagem em diferentes sub-bandas de frequências, capturando tanto informações espaciais quanto frequenciais. Assim padronizei o tamanho das features para garantir consistência.
 
 ## Repositório do Projeto
-[Link para o repositório do projeto](https://github.com/usuario/repositorio)
+[Link para o repositório do projeto](https://github.com/lukreitor/-Python---Classifica-o-de-Imagens-de-Raio-X-para-Detec-o-de-COVID-19)
 
 ## Classificador e Acurácia
 Usei um classificador SVM com kernel linear. A acurácia obtida foi de  0.6785714285714286%.
