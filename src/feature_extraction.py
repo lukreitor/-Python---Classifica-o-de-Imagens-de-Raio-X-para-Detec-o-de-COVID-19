@@ -4,6 +4,7 @@ import numpy as np
 import os
 
 def extract_wavelet_features(image, wavelet='db1', level=3, feature_length=1024):
+   
     coeffs = pywt.wavedec2(image, wavelet, level=level)
     features = []
     for coeff in coeffs:
