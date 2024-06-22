@@ -65,6 +65,9 @@ Contém as funções necessárias para treinar e avaliar o modelo de machine lea
 
 Este é o script principal que integra todas as partes do projeto, desde o carregamento dos dados até a avaliação do modelo. Ele coordena o processo de carregar imagens, extrair características, preparar rótulos, treinar e avaliar o modelo, e salvar os resultados.
 
+## 🍰 Contributing
+
+Please contribute using [GitHub Flow](https://guides.github.com/introduction/flow). Create a branch, add commits, and [open a pull request](https://github.com/lukreitor/-Python---Classifica-o-de-Imagens-de-Raio-X-para-Detec-o-de-COVID-19).
 
 
 ## Contributors ✨
